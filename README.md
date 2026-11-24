@@ -3,7 +3,7 @@
 I'm a Computer Science student (Software Engineering) at **FEU Institute of Technology**, graduating in **2027**.
 I build practical tools in Python, with a focus on **application security** and **privacy**.
 
-🔎 **Looking for:** software engineering / application security internships · [PORTFOLIO_URL] · [LinkedIn](https://www.linkedin.com/in/jerson-bautista-239992368/)
+🔎 **Looking for:** software engineering / application security internships · [Portfolio](https://jerson-portfolio-jab.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jerson-bautista-239992368/)
 
 ---
 
